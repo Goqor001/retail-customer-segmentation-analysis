@@ -1,0 +1,201 @@
+order_id,customer_name,city,age,income,product_category,product_name,quantity,price,order_date
+1001,Aram Petrosyan,Yerevan,34,850,Electronics,Wireless Mouse,2,19.99,2025-01-05
+1002,Mariam Sargsyan,Gyumri,28,620,Home,Desk Lamp,1,24.50,01/07/2025
+1003,David Hakobyan,Vanadzor,45,1100,Electronics,Keyboard,1,45.00,2025/01/09
+1004,Ani Grigoryan,Yerevan ,31,900,Clothing,T-Shirt,3,12.99,2025-01-11
+1005,Narek Avetisyan,Abovyan,52,1300,Food,Coffee Beans,2,8.75,11-01-2025
+1006,Lilit Manukyan,Armavir,26,580,Home,Curtains,1,39.99,2025-01-13
+1007,Gor Martirosyan,Yerevan,38,980,Electronics,USB Cable,4,5.99,2025-01-15
+1008,Sona Karapetyan,Gyumri,,720,Clothing,Jeans,1,34.99,2025-01-17
+1009,Hayk Hovhannisyan,Vanadzor,41,,Food,Green Tea,3,6.50,17/01/2025
+1010,Anna Khachatryan,Yerevan,29,760,Home,Office Chair,1,89.99,2025-01-19
+1011,Robert Minasyan,Abovyan,33,800,Electronics,Headphones,1,49.99,2025-01-21
+1012,Elena Vardanyan,Armavir,47,1050,Food,Olive Oil,2,14.30,2025/01/22
+1013,Tigran Poghosyan,Yerevan,36,950,Clothing,Jacket,1,59.99,2025-01-24
+1014,Nune Harutyunyan,Gyumri,24,500,Home,Kitchen Set,1,74.99,24-01-2025
+1015,Samvel Abrahamyan,Vanadzor,55,1400,Electronics,Smart Speaker,1,69.00,2025-01-26
+1016,Marine Baghdasaryan,Yerevan,30,820,Food,Chocolate Box,5,4.25,2025-01-28
+1017,Levon Mkrtchyan,Abovyan,39,990,Clothing,Sneakers,1,64.99,01/29/2025
+1018,Hasmik Gevorgyan,Armavir,43,1010,Home,Bed Sheets,2,29.99,2025-01-30
+1019,Artur Simonyan,Yerevan,27,700,Electronics,Power Bank,1,32.50,2025/02/01
+1020,Susanna Danielyan,Gyumri,50,1150,Food,Honey Jar,2,11.99,2025-02-03
+1021,Armen Melikyan,Vanadzor,32,870,Clothing,Hoodie,2,27.99,03-02-2025
+1022,Kristine Sahakyan,Yerevan,35,910,Home,Wall Clock,1,18.75,2025-02-05
+1023,Vahan Petrosyan,Abovyan,46,1200,Electronics,Monitor,1,159.99,2025-02-07
+1024,Irina Sargsyan,Armavir,22,470,Food,Pasta Pack,6,2.20,02/09/2025
+1025,Stepan Hakobyan,Yerevan,44,1080,Clothing,Formal Shirt,2,21.99,2025-02-10
+1026,Lusine Grigoryan,Gyumri,37,890,Home,Storage Box,3,9.99,2025/02/12
+1027,Karen Avetisyan,Vanadzor,53,1250,Electronics,Tablet,1,199.99,2025-02-14
+1028,Diana Manukyan,Yerevan ,25,610,Food,Almonds,2,13.50,14-02-2025
+1029,Ruben Martirosyan,Abovyan,40,1000,Clothing,Winter Coat,1,84.99,2025-02-16
+1030,Milena Karapetyan,Armavir,29,740,Home,Coffee Table,1,119.00,2025-02-18
+1031,Hovik Hovhannisyan,Yerevan,48,1180,Electronics,Webcam,1,39.99,02/20/2025
+1032,Emma Khachatryan,Gyumri,34,830,Food,Cheese Pack,3,7.75,2025-02-22
+1033,Sergey Minasyan,Vanadzor,31,790,Clothing,Cap,2,8.99,2025/02/24
+1034,Alina Vardanyan,Yerevan,42,1030,Home,Vacuum Cleaner,1,149.50,2025-02-25
+1035,Mher Poghosyan,Abovyan,,970,Electronics,Router,1,54.99,25-02-2025
+1036,Natalie Harutyunyan,Armavir,27,690,Food,Jam Jar,4,5.40,2025-02-27
+1037,Ashot Abrahamyan,Yerevan,58,1500,Clothing,Leather Belt,1,18.99,2025-03-01
+1038,Satenik Baghdasaryan,Gyumri,33,810,Home,Pillow,2,15.99,03/03/2025
+1039,Erik Mkrtchyan,Vanadzor,26,640,Electronics,Bluetooth Speaker,1,42.00,2025-03-05
+1040,Anahit Gevorgyan,Yerevan,39,,Food,Organic Rice,5,3.80,2025/03/07
+1041,Vahe Simonyan,Abovyan,45,1090,Clothing,Sports Shorts,2,16.99,07-03-2025
+1042,Mane Danielyan,Armavir,30,770,Home,Rug,1,59.99,2025-03-09
+1043,Suren Melikyan,Yerevan,51,1230,Electronics,Laptop Stand,1,29.99,2025-03-11
+1044,Elina Sahakyan,Gyumri,23,520,Food,Cereal Box,4,4.60,2025-03-13
+1045,Grigor Petrosyan,Vanadzor,37,920,Clothing,Dress,1,44.99,03/15/2025
+1046,Mariam Sargsyan,Gyumri,28,620,Home,Desk Lamp,1,24.50,01/07/2025
+1047,David Hakobyan, Vanadzor,45,1100,Electronics,Keyboard,1,45,2025/01/09
+1048,Ani Grigoryan,Yerevan,31,900,Clothing,T-Shirt,3,12.99,2025-01-11
+1049,Narek Avetisyan,Abovyan,52,1300,Food,Coffee Beans,two,8.75,11-01-2025
+1050,Lilit Manukyan,Armavir,26,580,Home,Curtains,1,39.99,2025-01-13
+1051,Arsen Khachatryan,Yerevan,36,940,Electronics,Wireless Mouse,1,19.99,2025-03-17
+1052,Narine Hovsepyan,Gyumri,41,1020,Home,Desk Lamp,2,24.50,17/03/2025
+1053,Edgar Gasparyan,Vanadzor,29,730,Food,Coffee Beans,3,8.75,2025/03/19
+1054,Tatev Amiryan,Yerevan,33,860,Clothing,Jeans,1,34.99,2025-03-21
+1055,Rafayel Movsisyan,Abovyan,47,1110,Electronics,Headphones,2,49.99,21-03-2025
+1056,Lucy Davtyan,Armavir,25,600,Home,Wall Clock,1,18.75,2025-03-23
+1057,Arman Ghazaryan,Yerevan,54,1320,Food,Olive Oil,1,14.30,2025-03-25
+1058,Siranush Tovmasyan,Gyumri,38,910,Clothing,Hoodie,2,27.99,03/27/2025
+1059,Mark Babayan,Vanadzor,44,1070,Electronics,Power Bank,1,32.50,2025-03-29
+1060,Nelly Adamyan,Yerevan,32,800,Home,Office Chair,1,89.99,2025/03/31
+1061,Vigen Petrosyan,Abovyan,27,690,Food,Green Tea,2,6.50,31-03-2025
+1062,Silva Sargsyan,Armavir,35,850,Clothing,Jacket,1,59.99,2025-04-02
+1063,Albert Hakobyan,Yerevan,49,1160,Electronics,USB Cable,5,5.99,2025-04-04
+1064,Roza Grigoryan,Gyumri,30,780,Home,Bed Sheets,1,29.99,04/06/2025
+1065,Hrant Avetisyan,Vanadzor,42,990,Food,Honey Jar,2,11.99,2025/04/08
+1066,Karine Manukyan,Yerevan,28,710,Clothing,T-Shirt,2,12.99,2025-04-10
+1067,Alex Martirosyan,Abovyan,39,960,Electronics,Smart Speaker,1,69.00,10-04-2025
+1068,Liana Karapetyan,Armavir,46,1090,Home,Curtains,2,39.99,2025-04-12
+1069,Vlad Hovhannisyan,Yerevan,31,820,Food,Chocolate Box,4,4.25,2025-04-14
+1070,Monika Khachatryan,Gyumri,24,,Clothing,Cap,1,8.99,04/16/2025
+1071,Eduard Minasyan,Vanadzor,53,1280,Electronics,Monitor,1,159.99,2025-04-18
+1072,Laura Vardanyan,Yerevan,37,900,Home,Kitchen Set,1,74.99,2025/04/20
+1073,Hayk Poghosyan,Abovyan,34,870,Food,Pasta Pack,6,2.20,20-04-2025
+1074,Inga Harutyunyan,Armavir,43,1040,Clothing,Sneakers,1,64.99,2025-04-22
+1075,Gegham Abrahamyan,Yerevan,50,1190,Electronics,Webcam,1,39.99,2025-04-24
+1076,Eva Baghdasaryan,Gyumri,29,740,Home,Storage Box,3,9.99,04/26/2025
+1077,Daniel Mkrtchyan,Vanadzor,40,980,Food,Cheese Pack,2,7.75,2025/04/28
+1078,Seda Gevorgyan,Yerevan,26,650,Clothing,Formal Shirt,1,21.99,2025-04-30
+1079,Taron Simonyan,Abovyan,45,1080,Electronics,Router,1,54.99,30-04-2025
+1080,Naira Danielyan,Armavir,33,830,Home,Pillow,2,15.99,2025-05-02
+1081,Vardan Melikyan,Yerevan,56,1420,Food,Almonds,3,13.50,2025-05-04
+1082,Syuzanna Sahakyan,Gyumri,31,790,Clothing,Winter Coat,1,84.99,05/06/2025
+1083,Henrik Petrosyan,Vanadzor,48,1130,Electronics,Tablet,1,199.99,2025/05/08
+1084,Regina Sargsyan,Yerevan,27,680,Home,Rug,1,59.99,2025-05-10
+1085,Vladimir Hakobyan,Abovyan,36,920,Food,Jam Jar,2,5.40,10-05-2025
+1086,Ofelia Grigoryan,Armavir,44,1060,Clothing,Leather Belt,1,18.99,2025-05-12
+1087,Avet Avetisyan,Yerevan,52,1270,Electronics,Bluetooth Speaker,1,42.00,2025-05-14
+1088,Mary Manukyan,Gyumri,25,610,Home,Coffee Table,1,119.00,05/16/2025
+1089,Smbat Martirosyan,Vanadzor,39,970,Food,Organic Rice,4,3.80,2025/05/18
+1090,Angela Karapetyan,Yerevan,34,860,Clothing,Dress,1,44.99,2025-05-20
+1091,Artyom Hovhannisyan,Abovyan,28,720,Electronics,Laptop Stand,2,29.99,20-05-2025
+1092,Lena Khachatryan,Armavir,41,1010,Home,Vacuum Cleaner,1,149.50,2025-05-22
+1093,Ernest Minasyan,Yerevan,30,780,Food,Cereal Box,5,4.60,2025-05-24
+1094,Veronika Vardanyan,Gyumri,47,1120,Clothing,Sports Shorts,2,16.99,05/26/2025
+1095,Garik Poghosyan,Vanadzor,55,1380,Electronics,Keyboard,1,45.00,2025/05/28
+1096,Anush Harutyunyan,Yerevan,32,840,Home,Desk Lamp,1,24.50,2025-05-30
+1097,Artak Abrahamyan,Abovyan,43,1030,Food,Coffee Beans,2,8.75,30-05-2025
+1098,Milena Karapetyan,Armavir,29,740,Home,Coffee Table,1,119.00,2025-02-18
+1099,Hovik Hovhannisyan,Yerevan,48,1180,Electronics,Webcam,1,39.99,02/20/2025
+1100,Emma Khachatryan,Gyumri,34,830,Food,Cheese Pack,3,7.75,2025-02-22
+1101,Aram Petrosyan,Yerevan,34,850,Electronics,Wireless Mouse,2,19.99,2025-06-01
+1102,Mariam Sargsyan,Gyumri,28,620,Home,Desk Lamp,1,24.50,06/03/2025
+1103,David Hakobyan,Vanadzor,45,1100,Electronics,Keyboard,2,45.00,2025/06/05
+1104,Ani Grigoryan,Yerevan,31,900,Clothing,T-Shirt,4,12.99,2025-06-07
+1105,Narek Avetisyan,Abovyan,52,1300,Food,Coffee Beans,3,8.75,07-06-2025
+1106,Lilit Manukyan,Armavir,26,580,Home,Curtains,1,39.99,2025-06-09
+1107,Gor Martirosyan,Yerevan,38,980,Electronics,USB Cable,6,5.99,2025-06-11
+1108,Sona Karapetyan,Gyumri,29,720,Clothing,Jeans,1,34.99,06/13/2025
+1109,Hayk Hovhannisyan,Vanadzor,41,1040,Food,Green Tea,3,6.50,2025/06/15
+1110,Anna Khachatryan,Yerevan,29,760,Home,Office Chair,1,89.99,2025-06-17
+1111,Robert Minasyan,Abovyan,33,800,Electronics,Headphones,2,49.99,17-06-2025
+1112,Elena Vardanyan,Armavir,47,1050,Food,Olive Oil,2,14.30,2025-06-19
+1113,Tigran Poghosyan,Yerevan,36,950,Clothing,Jacket,1,59.99,2025-06-21
+1114,Nune Harutyunyan,Gyumri,24,500,Home,Kitchen Set,1,74.99,06/23/2025
+1115,Samvel Abrahamyan,Vanadzor,55,1400,Electronics,Smart Speaker,2,69.00,2025/06/25
+1116,Marine Baghdasaryan,Yerevan,30,820,Food,Chocolate Box,6,4.25,2025-06-27
+1117,Levon Mkrtchyan,Abovyan,39,990,Clothing,Sneakers,1,64.99,27-06-2025
+1118,Hasmik Gevorgyan,Armavir,43,1010,Home,Bed Sheets,2,29.99,2025-06-29
+1119,Artur Simonyan,Yerevan,27,700,Electronics,Power Bank,1,32.50,2025-07-01
+1120,Susanna Danielyan,Gyumri,50,1150,Food,Honey Jar,3,11.99,07/03/2025
+1121,Armen Melikyan,Vanadzor,32,870,Clothing,Hoodie,2,27.99,2025/07/05
+1122,Kristine Sahakyan,Yerevan,35,910,Home,Wall Clock,2,18.75,2025-07-07
+1123,Vahan Petrosyan,Abovyan,46,1200,Electronics,Monitor,1,159.99,07-07-2025
+1124,Irina Sargsyan,Armavir,22,470,Food,Pasta Pack,8,2.20,2025-07-09
+1125,Stepan Hakobyan,Yerevan,44,1080,Clothing,Formal Shirt,2,21.99,2025-07-11
+1126,Lusine Grigoryan,Gyumri,37,890,Home,Storage Box,4,9.99,07/13/2025
+1127,Karen Avetisyan,Vanadzor,53,1250,Electronics,Tablet,1,199.99,2025/07/15
+1128,Diana Manukyan,Yerevan,25,610,Food,Almonds,2,13.50,2025-07-17
+1129,Ruben Martirosyan,Abovyan,40,1000,Clothing,Winter Coat,1,84.99,17-07-2025
+1130,Milena Karapetyan,Armavir,29,740,Home,Coffee Table,1,119.00,2025-07-19
+1131,Hovik Hovhannisyan,Yerevan,48,1180,Electronics,Webcam,2,39.99,2025-07-21
+1132,Emma Khachatryan,Gyumri,34,830,Food,Cheese Pack,3,7.75,07/23/2025
+1133,Sergey Minasyan,Vanadzor,31,790,Clothing,Cap,3,8.99,2025/07/25
+1134,Alina Vardanyan,Yerevan,42,1030,Home,Vacuum Cleaner,1,149.50,2025-07-27
+1135,Mher Poghosyan,Abovyan,37,970,Electronics,Router,1,54.99,27-07-2025
+1136,Natalie Harutyunyan,Armavir,27,690,Food,Jam Jar,5,5.40,2025-07-29
+1137,Ashot Abrahamyan,Yerevan,58,1500,Clothing,Leather Belt,2,18.99,2025-07-31
+1138,Satenik Baghdasaryan,Gyumri,33,810,Home,Pillow,3,15.99,07/31/2025
+1139,Erik Mkrtchyan,Vanadzor,26,640,Electronics,Bluetooth Speaker,1,42.00,2025/08/02
+1140,Anahit Gevorgyan,Yerevan,39,930,Food,Organic Rice,6,3.80,2025-08-04
+1141,Vahe Simonyan,Abovyan,45,1090,Clothing,Sports Shorts,2,16.99,04-08-2025
+1142,Mane Danielyan,Armavir,30,770,Home,Rug,1,59.99,2025-08-06
+1143,Suren Melikyan,Yerevan,51,1230,Electronics,Laptop Stand,2,29.99,2025-08-08
+1144,Elina Sahakyan,Gyumri,23,520,Food,Cereal Box,5,4.60,08/10/2025
+1145,Grigor Petrosyan,Vanadzor,37,920,Clothing,Dress,1,44.99,2025/08/12
+1146,Arsen Khachatryan,Yerevan,36,940,Electronics,Wireless Mouse,2,19.99,2025-08-14
+1147,Narine Hovsepyan,Gyumri,41,1020,Home,Desk Lamp,1,24.50,14-08-2025
+1148,Edgar Gasparyan,Vanadzor,29,730,Food,Coffee Beans,4,8.75,2025-08-16
+1149,Tatev Amiryan,Yerevan,33,860,Clothing,Jeans,2,34.99,2025-08-18
+1150,Rafayel Movsisyan,Abovyan,47,1110,Electronics,Headphones,1,49.99,08/20/2025
+1151,Lucy Davtyan,Armavir,25,600,Home,Wall Clock,2,18.75,2025/08/22
+1152,Arman Ghazaryan,Yerevan,54,1320,Food,Olive Oil,3,14.30,2025-08-24
+1153,Siranush Tovmasyan,Gyumri,38,910,Clothing,Hoodie,1,27.99,24-08-2025
+1154,Mark Babayan,Vanadzor,44,1070,Electronics,Power Bank,2,32.50,2025-08-26
+1155,Nelly Adamyan,Yerevan,32,800,Home,Office Chair,1,89.99,2025-08-28
+1156,Vigen Petrosyan,Abovyan,27,690,Food,Green Tea,4,6.50,08/30/2025
+1157,Silva Sargsyan,Armavir,35,850,Clothing,Jacket,1,59.99,2025/09/01
+1158,Albert Hakobyan,Yerevan,49,1160,Electronics,USB Cable,7,5.99,2025-09-03
+1159,Roza Grigoryan,Gyumri,30,780,Home,Bed Sheets,2,29.99,03-09-2025
+1160,Hrant Avetisyan,Vanadzor,42,990,Food,Honey Jar,2,11.99,2025-09-05
+1161,Karine Manukyan,Yerevan,28,710,Clothing,T-Shirt,3,12.99,2025-09-07
+1162,Alex Martirosyan,Abovyan,39,960,Electronics,Smart Speaker,1,69.00,09/09/2025
+1163,Liana Karapetyan,Armavir,46,1090,Home,Curtains,1,39.99,2025/09/11
+1164,Vlad Hovhannisyan,Yerevan,31,820,Food,Chocolate Box,5,4.25,2025-09-13
+1165,Monika Khachatryan,Gyumri,24,540,Clothing,Cap,2,8.99,13-09-2025
+1166,Eduard Minasyan,Vanadzor,53,1280,Electronics,Monitor,1,159.99,2025-09-15
+1167,Laura Vardanyan,Yerevan,37,900,Home,Kitchen Set,1,74.99,2025-09-17
+1168,Hayk Poghosyan,Abovyan,34,870,Food,Pasta Pack,7,2.20,09/19/2025
+1169,Inga Harutyunyan,Armavir,43,1040,Clothing,Sneakers,1,64.99,2025/09/21
+1170,Gegham Abrahamyan,Yerevan,50,1190,Electronics,Webcam,1,39.99,2025-09-23
+1171,Eva Baghdasaryan,Gyumri,29,740,Home,Storage Box,2,9.99,23-09-2025
+1172,Daniel Mkrtchyan,Vanadzor,40,980,Food,Cheese Pack,3,7.75,2025-09-25
+1173,Seda Gevorgyan,Yerevan,26,650,Clothing,Formal Shirt,2,21.99,2025-09-27
+1174,Taron Simonyan,Abovyan,45,1080,Electronics,Router,1,54.99,09/29/2025
+1175,Naira Danielyan,Armavir,33,830,Home,Pillow,2,15.99,2025/10/01
+1176,Vardan Melikyan,Yerevan,56,1420,Food,Almonds,2,13.50,2025-10-03
+1177,Syuzanna Sahakyan,Gyumri,31,790,Clothing,Winter Coat,1,84.99,03-10-2025
+1178,Henrik Petrosyan,Vanadzor,48,1130,Electronics,Tablet,1,199.99,2025-10-05
+1179,Regina Sargsyan,Yerevan,27,680,Home,Rug,1,59.99,2025-10-07
+1180,Vladimir Hakobyan,Abovyan,36,920,Food,Jam Jar,4,5.40,10/09/2025
+1181,Ofelia Grigoryan,Armavir,44,1060,Clothing,Leather Belt,1,18.99,2025/10/11
+1182,Avet Avetisyan,Yerevan,52,1270,Electronics,Bluetooth Speaker,1,42.00,2025-10-13
+1183,Mary Manukyan,Gyumri,25,610,Home,Coffee Table,1,119.00,13-10-2025
+1184,Smbat Martirosyan,Vanadzor,39,970,Food,Organic Rice,5,3.80,2025-10-15
+1185,Angela Karapetyan,Yerevan,34,860,Clothing,Dress,2,44.99,2025-10-17
+1186,Artyom Hovhannisyan,Abovyan,28,720,Electronics,Laptop Stand,1,29.99,10/19/2025
+1187,Lena Khachatryan,Armavir,41,1010,Home,Vacuum Cleaner,1,149.50,2025/10/21
+1188,Ernest Minasyan,Yerevan,30,780,Food,Cereal Box,4,4.60,2025-10-23
+1189,Veronika Vardanyan,Gyumri,47,1120,Clothing,Sports Shorts,3,16.99,23-10-2025
+1190,Garik Poghosyan,Vanadzor,55,1380,Electronics,Keyboard,1,45.00,2025-10-25
+1191,Anush Harutyunyan,Yerevan,32,840,Home,Desk Lamp,2,24.50,2025-10-27
+1192,Artak Abrahamyan,Abovyan,43,1030,Food,Coffee Beans,3,8.75,10/29/2025
+1193,Aram Petrosyan,Yerevan,34,850,Electronics,Wireless Mouse,1,19.99,2025/10/31
+1194,Mariam Sargsyan,Gyumri,28,620,Home,Desk Lamp,1,24.50,2025-11-02
+1195,David Hakobyan,Vanadzor,45,1100,Electronics,Keyboard,2,45.00,02-11-2025
+1196,Ani Grigoryan,Yerevan,31,900,Clothing,T-Shirt,3,12.99,2025-11-04
+1197,Narek Avetisyan,Abovyan,52,1300,Food,Coffee Beans,2,8.75,2025-11-06
+1198,Lilit Manukyan,Armavir,26,580,Home,Curtains,1,39.99,11/08/2025
+1199,Gor Martirosyan,Yerevan,38,980,Electronics,USB Cable,5,5.99,2025/11/10
+1200,Sona Karapetyan,Gyumri,29,720,Clothing,Jeans,1,34.99,2025-11-12

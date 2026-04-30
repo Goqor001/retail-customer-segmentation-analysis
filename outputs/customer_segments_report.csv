@@ -1,0 +1,66 @@
+customer_name,city,orders_count,total_revenue,revenue_share,customer_segments
+Milena Karapetyan,Armavir,3,357.0,6.56,VIP
+Eduard Minasyan,Vanadzor,2,319.98,5.88,VIP
+Alina Vardanyan,Yerevan,2,299.0,5.49,VIP
+Henrik Petrosyan,Vanadzor,1,199.99,3.67,Regular
+Karen Avetisyan,Vanadzor,1,199.99,3.67,Regular
+Anna Khachatryan,Yerevan,2,179.98,3.31,Regular
+Ani Grigoryan,Yerevan,4,168.87,3.1,Regular
+Vahan Petrosyan,Abovyan,1,159.99,2.94,Low Value
+Lena Khachatryan,Armavir,1,149.5,2.75,Low Value
+Angela Karapetyan,Yerevan,2,134.97,2.48,Low Value
+Hasmik Gevorgyan,Armavir,2,119.96,2.2,Low Value
+Lilit Manukyan,Armavir,3,119.97,2.2,Low Value
+Mane Danielyan,Armavir,2,119.98,2.2,Low Value
+Regina Sargsyan,Yerevan,2,119.98,2.2,Low Value
+Tigran Poghosyan,Yerevan,2,119.98,2.2,Low Value
+Tatev Amiryan,Yerevan,2,104.97,1.93,Low Value
+Mark Babayan,Vanadzor,2,97.5,1.79,Low Value
+Nelly Adamyan,Yerevan,1,89.99,1.65,Low Value
+Suren Melikyan,Yerevan,2,89.97,1.65,Low Value
+Stepan Hakobyan,Yerevan,2,87.96,1.62,Low Value
+Ruben Martirosyan,Abovyan,1,84.99,1.56,Low Value
+Avet Avetisyan,Yerevan,2,84.0,1.54,Low Value
+Aram Petrosyan,Yerevan,2,79.96,1.47,Low Value
+Gegham Abrahamyan,Yerevan,2,79.98,1.47,Low Value
+Hovik Hovhannisyan,Yerevan,1,79.98,1.47,Low Value
+Liana Karapetyan,Armavir,1,79.98,1.47,Low Value
+Laura Vardanyan,Yerevan,1,74.99,1.38,Low Value
+Anush Harutyunyan,Yerevan,2,73.5,1.35,Low Value
+Albert Hakobyan,Yerevan,2,71.88,1.32,Low Value
+Sona Karapetyan,Gyumri,2,69.98,1.29,Low Value
+Samvel Abrahamyan,Vanadzor,1,69.0,1.27,Low Value
+Vardan Melikyan,Yerevan,2,67.5,1.24,Low Value
+Seda Gevorgyan,Yerevan,2,65.97,1.21,Low Value
+Inga Harutyunyan,Armavir,1,64.99,1.19,Low Value
+Karine Manukyan,Yerevan,2,64.95,1.19,Low Value
+Arsen Khachatryan,Yerevan,2,59.97,1.1,Low Value
+Gor Martirosyan,Yerevan,2,59.9,1.1,Low Value
+Silva Sargsyan,Armavir,1,59.99,1.1,Low Value
+Arman Ghazaryan,Yerevan,2,57.2,1.05,Low Value
+Ashot Abrahamyan,Yerevan,2,56.97,1.05,Low Value
+Kristine Sahakyan,Yerevan,2,56.25,1.03,Low Value
+Robert Minasyan,Abovyan,1,49.99,0.92,Low Value
+Natalie Harutyunyan,Armavir,2,48.6,0.89,Low Value
+Marine Baghdasaryan,Yerevan,2,46.75,0.86,Low Value
+Emma Khachatryan,Gyumri,2,46.5,0.85,Low Value
+Garik Poghosyan,Vanadzor,1,45.0,0.83,Low Value
+Erik Mkrtchyan,Vanadzor,1,42.0,0.77,Low Value
+Ernest Minasyan,Yerevan,2,41.4,0.76,Low Value
+Vlad Hovhannisyan,Yerevan,2,38.25,0.7,Low Value
+Edgar Gasparyan,Vanadzor,1,35.0,0.64,Low Value
+Artur Simonyan,Yerevan,1,32.5,0.6,Low Value
+Naira Danielyan,Armavir,1,31.98,0.59,Low Value
+Elena Vardanyan,Armavir,1,28.6,0.53,Low Value
+Diana Manukyan,Yerevan,1,27.0,0.5,Low Value
+Mariam Sargsyan,Gyumri,1,24.5,0.45,Low Value
+Hrant Avetisyan,Vanadzor,1,23.98,0.44,Low Value
+Susanna Danielyan,Gyumri,1,23.98,0.44,Low Value
+Daniel Mkrtchyan,Vanadzor,1,23.25,0.43,Low Value
+Anahit Gevorgyan,Yerevan,1,22.8,0.42,Low Value
+Ofelia Grigoryan,Armavir,1,18.99,0.35,Low Value
+Smbat Martirosyan,Vanadzor,1,19.0,0.35,Low Value
+Elina Sahakyan,Gyumri,1,18.4,0.34,Low Value
+Lucy Davtyan,Armavir,1,18.75,0.34,Low Value
+Irina Sargsyan,Armavir,1,17.6,0.32,Low Value
+Narek Avetisyan,Abovyan,1,17.5,0.32,Low Value
