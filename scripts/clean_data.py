@@ -1,7 +1,7 @@
 import pandas as pd
 
 def load_data():
-    df = pd.read_csv("raw_customer_data.csv")
+    df = pd.read_csv(r"data\raw_customer_data.csv")
     return df
 
 def clean_columns(df):
@@ -16,7 +16,7 @@ def clean_columns(df):
     clean_df["customer_name"] = clean_df["customer_name"].str.strip()
     clean_df["city"] = clean_df["city"].str.strip()
     clean_df["product_category"] = clean_df["product_category"].str.strip()
-    clean_df["prodcut_name"] = clean_df["product_name"].str.strip()
+    clean_df["product_name"] = clean_df["product_name"].str.strip()
 
     return clean_df
 
@@ -36,7 +36,7 @@ def fix_dates(clean_df):
 def handle_missing_values(clean_df):
 
     clean_df["age"] = clean_df["age"].fillna(clean_df["age"].mean())
-    clean_df["income"] = clean_df["income"].fillna(clean_df["income"].mean)
+    clean_df["income"] = clean_df["income"].fillna(clean_df["income"].mean())
     clean_df["quantity"] = clean_df["quantity"].fillna(1)
     clean_df = clean_df.dropna(subset="order_date")
 
@@ -63,7 +63,7 @@ def business_metrics(clean_df):
 def save_clean_data(clean_df):
 
 
-    clean_df.to_csv("clean_customer_data.csv",index=False)
+    clean_df.to_csv(r"data\clean_customer_data.csv",index=False)
     print("Clean data are saved")
 
 df = load_data()

@@ -42,7 +42,7 @@ FROM finally_customer;
 """
 
 df = pd.read_sql_query(query, conn)
-df.to_csv("customer_segments_report.csv", index=False)
+df.to_csv(r"outputs\customer_segments_report.csv", index=False)
 print("Customer segments report saved")
 
 conn.close()

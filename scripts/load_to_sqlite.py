@@ -1,7 +1,7 @@
 import pandas as pd
 import sqlite3
 
-df = pd.read_csv("clean_customer_data.csv")
+df = pd.read_csv(r"data\clean_customer_data.csv")
 
 conn = sqlite3.connect("sales.db")
 
