@@ -1,7 +1,3 @@
-Вот готовый, улучшенный и структурированный README для GitHub — можешь копировать напрямую:
-
----
-
 # Retail Customer Segmentation Analysis
 
 ## 📊 Project Overview
